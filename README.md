@@ -2,3 +2,6 @@
 Repositório de ICO sobre GIT
 
 Eu menti
+
+Criando alt local
+
